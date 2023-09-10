@@ -1,8 +1,6 @@
 ### Hi there 👋
-Who am I? 
 
-In a few words: 
-I'm a Full Stack Developer with experience working on NodeJS, React, JavaScript, Redux, SQL, and Express among other technologies in the sector. I also have a solid background in Health Care working in hospitals and health centres as a Biochemist. 
+I'm Cecilia, a Full Stack Developer with experience working on NodeJS, React, JavaScript, Redux, SQL, and Express among other technologies in the sector. I also have a solid background in Health Care working in hospitals and health centres as a Biochemist. 
 
 I'm passionate about nature in general and the human body in particular. My dream job would be to be part of a biomedical engineering company that helps develop new devices and technologies for improving health.
 
